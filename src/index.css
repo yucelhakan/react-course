@@ -85,3 +85,24 @@ hr{
 .blog-details div{
   margin: 20px 0;
 }
+
+.create{
+  max-width: 400px;
+}
+
+.create input, .create textarea, .create select{
+  width: 100%;
+  display: block;
+  margin: 10px 0;
+  height: 30px;
+  padding-left: 10px;
+}
+
+.create button{
+  background-color: #ff793f;
+  border-color: #ff793f;
+  border-radius: 5px;
+  color: #fff;
+  padding: 5px 15px;
+  font-weight: 600;
+}

@@ -1,32 +1,34 @@
 {
-    "yazilar":[
-        {
-            "ad": "Yeni Başlayanlar için React",
-            "aciklama": "Lorem ipsum",
-            "yazar": "hakan",
-            "id": 1,
-            "seo": "yeni-baslayanlar-icin-react"
-        },
-        {
-            "ad": "Angular Öğreniyorum",
-            "aciklama": "Lorem ipsum",
-            "yazar": "hako",
-            "id": 2,
-            "seo": "angular-ogreniyorum"
-        },
-        {
-            "ad": "İleri Seviye REACT",
-            "aciklama": "Lorem ipsum",
-            "yazar": "hakan",
-            "id": 3,
-            "seo": "ileri-seviye-react"
-        },
-        {
-            "ad": "Front End Öğreniyorum",
-            "aciklama": "Lorem ipsum",
-            "yazar": "yucel",
-            "id": 4,
-            "seo": "front-end-ogreniyorum"
-        }
-    ]
+  "yazilar": [
+    {
+      "ad": "Yeni Başlayanlar için React",
+      "aciklama": "Lorem ipsum",
+      "yazar": "hakan",
+      "id": 1
+    },
+    {
+      "ad": "Angular Öğreniyorum",
+      "aciklama": "Lorem ipsum",
+      "yazar": "hako",
+      "id": 2
+    },
+    {
+      "ad": "İleri Seviye REACT",
+      "aciklama": "Lorem ipsum",
+      "yazar": "hakan",
+      "id": 3
+    },
+    {
+      "ad": "Front End Öğreniyorum",
+      "aciklama": "Lorem ipsum",
+      "yazar": "yucel",
+      "id": 4
+    },
+    {
+      "ad": "React Yeni Yazı Ekleme",
+      "aciklama": "Eklendi mi acaba :)",
+      "yazar": "hakan",
+      "id": 5
+    }
+  ]
 }
