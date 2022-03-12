@@ -71,3 +71,17 @@ hr{
   font-size: 50px;
   color: crimson;
 }
+
+.blog-preview a{
+  text-decoration: none;
+}
+
+.blog-details h2{
+  font-size: 26px;
+  color: #3c6382;
+  margin-bottom: 10px;
+}
+
+.blog-details div{
+  margin: 20px 0;
+}

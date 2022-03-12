@@ -4,25 +4,29 @@
             "ad": "Yeni Başlayanlar için React",
             "aciklama": "Lorem ipsum",
             "yazar": "hakan",
-            "id": 1
+            "id": 1,
+            "seo": "yeni-baslayanlar-icin-react"
         },
         {
             "ad": "Angular Öğreniyorum",
             "aciklama": "Lorem ipsum",
             "yazar": "hako",
-            "id": 2
+            "id": 2,
+            "seo": "angular-ogreniyorum"
         },
         {
             "ad": "İleri Seviye REACT",
             "aciklama": "Lorem ipsum",
             "yazar": "hakan",
-            "id": 3
+            "id": 3,
+            "seo": "ileri-seviye-react"
         },
         {
             "ad": "Front End Öğreniyorum",
             "aciklama": "Lorem ipsum",
             "yazar": "yucel",
-            "id": 4
+            "id": 4,
+            "seo": "front-end-ogreniyorum"
         }
     ]
 }
