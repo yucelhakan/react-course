@@ -1,0 +1,28 @@
+{
+    "yazilar":[
+        {
+            "ad": "Yeni Başlayanlar için React",
+            "aciklama": "Lorem ipsum",
+            "yazar": "hakan",
+            "id": 1
+        },
+        {
+            "ad": "Angular Öğreniyorum",
+            "aciklama": "Lorem ipsum",
+            "yazar": "hako",
+            "id": 2
+        },
+        {
+            "ad": "İleri Seviye REACT",
+            "aciklama": "Lorem ipsum",
+            "yazar": "hakan",
+            "id": 3
+        },
+        {
+            "ad": "Front End Öğreniyorum",
+            "aciklama": "Lorem ipsum",
+            "yazar": "yucel",
+            "id": 4
+        }
+    ]
+}
