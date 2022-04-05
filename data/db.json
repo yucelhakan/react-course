@@ -23,12 +23,6 @@
       "aciklama": "Lorem ipsum",
       "yazar": "yucel",
       "id": 4
-    },
-    {
-      "ad": "React Yeni Yazı Ekleme",
-      "aciklama": "Eklendi mi acaba :)",
-      "yazar": "hakan",
-      "id": 5
     }
   ]
 }
